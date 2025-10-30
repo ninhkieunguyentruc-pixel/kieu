@@ -1,0 +1,5 @@
+{
+  "name": "Trắc nghiệm Anh văn 8 – Ôn GK",
+  "description": "Một ứng dụng trắc nghiệm giúp học sinh lớp 8 ôn thi giữa kỳ môn Anh văn. Người dùng trả lời các câu hỏi theo từng đợt và nhận phản hồi tức thì cùng với điểm số cuối cùng.",
+  "requestFramePermissions": []
+}
