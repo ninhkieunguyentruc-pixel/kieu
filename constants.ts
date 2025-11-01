@@ -8,7 +8,7 @@ export const QUIZ_DATA: Question[] = [
     id: 1,
     question: "I'm _____ of taking photos.",
     options: { A: "interested", B: "fond", C: "keen", D: "into" },
-    correctAnswer: "C",
+    correctAnswer: "B",
     translation: "Tôi thích chụp ảnh."
   },
   {
